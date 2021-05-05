@@ -24,7 +24,7 @@
 ### `DESENVOLVIMENTO BACK-END`
   - NodeJs
 
-### `Banco de Dados`
+### `BANCO DE DADOS`
   - PostgreSql (SQL)
   - SQlite (SQL)
   - MongoDB (NoSQL)
