@@ -1,16 +1,30 @@
-### Hi there 👋
+![Logo](https://user-images.githubusercontent.com/48457700/117142638-4cc2f480-ad86-11eb-8b37-ace4c6e0a484.png)
 
-<!--
-**programador404/programador404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### `SOBRE MIM`
+  - ⌨ Programador Fullstack Autodidata
+  - 💻 Estudante de Segurança da Informação nas horas vagas
+  - :books: Viciado em Livros (52)
+  - :sunglasses: Tenho 20 anos
+  - :earth_americas: Moro em Recife-PE
 
-Here are some ideas to get you started:
+### `LINGUAGENS DE PROGRAMAÇÃO`
+  - Javascript
+  - Typescript (tipagem)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### `DESENVOLVIMENTO FRONT-END WEB`
+  - HTML
+  - CSS, SCSS, Styled-components
+  - ReactJs
+  - NextJs
+
+### `DESENVOLVIMENTO FRONT-END MOBILE`
+  - React-Native (CLI)
+  - Expo
+
+### `DESENVOLVIMENTO BACK-END`
+  - NodeJs
+
+### `Banco de Dados`
+  - PostgreSql (SQL)
+  - SQlite (SQL)
+  - MongoDB (NoSQL)
