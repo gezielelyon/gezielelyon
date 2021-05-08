@@ -13,9 +13,9 @@
 
 ### `DESENVOLVIMENTO FRONT-END WEB`
   - HTML
-  - CSS, SCSS, Styled-components
   - ReactJs
   - NextJs
+  - CSS, SCSS, Styled-components
 
 ### `DESENVOLVIMENTO FRONT-END MOBILE`
   - React-Native (CLI)
