@@ -29,7 +29,7 @@
   - SQlite (SQL)
   - MongoDB (NoSQL)
 
-## `OUTRAS LINGUAGENS`
+### `OUTRAS LINGUAGENS`
   - Linguagem C
   - Python
 
