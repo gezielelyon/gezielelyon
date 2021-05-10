@@ -5,7 +5,7 @@
   - 💻 Estudante de Segurança da Informação nas horas vagas
   - :books: Viciado em Livros (52)
   - :sunglasses: Tenho 20 anos
-  - :earth_americas: Moro em Recife-PE
+  - :earth_americas: Sou de Recife (PE)
 
 ### `LINGUAGENS DE PROGRAMAÇÃO`
   - Javascript
