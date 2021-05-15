@@ -17,7 +17,7 @@
   - NextJs
   - CSS, SCSS, Styled-components
 
-### `DESENVOLVIMENTO FRONT-END MOBILE`
+### `DESENVOLVIMENTO FRONT-END (MOBILE)`
   - React-Native (CLI)
   - Expo
 
