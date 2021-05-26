@@ -11,7 +11,7 @@
   - Javascript
   - Typescript (tipagem)
 
-### `DESENVOLVIMENTO FRONT-END WEB`
+### `DESENVOLVIMENTO FRONT-END (WEB`
   - HTML
   - ReactJs
   - NextJs
