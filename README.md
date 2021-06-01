@@ -33,5 +33,9 @@
   - Linguagem C
   - Python
 
+<br/>[![programador404's github stats](https://github-readme-stats.vercel.app/api?username=programador404&count_private=true&count_private=true&theme=dracula)](https://github.com/programador404/github-readme-stats)
+
+
+
 [![Instagram Badge](https://img.shields.io/badge/-@programador404-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://instagram.com/_programador404)](https://instagram.com/_programador404) 
 [![Linkedin Badge](https://img.shields.io/badge/-Geziel%20Elyon-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geziel-elyon-a0a1381a5/)](https://www.linkedin.com/in/geziel-elyon-a0a1381a5/)
