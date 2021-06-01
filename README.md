@@ -29,10 +29,6 @@
   - SQlite (SQL)
   - MongoDB (NoSQL)
 
-### `OUTRAS LINGUAGENS`
-  - Linguagem C
-  - Python
-
 <br/>[![programador404's github stats](https://github-readme-stats.vercel.app/api?username=programador404&count_private=true&count_private=true&theme=dracula)](https://github.com/programador404/github-readme-stats)
 
 
