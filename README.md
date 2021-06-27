@@ -1,4 +1,4 @@
-![Logo](https://user-images.githubusercontent.com/48457700/117142638-4cc2f480-ad86-11eb-8b37-ace4c6e0a484.png)
+![117142638-4cc2f480-ad86-11eb-8b37-ace4c6e0a484](https://user-images.githubusercontent.com/48457700/123555951-2eaeba80-d75f-11eb-89d5-3e936ca8e97f.png)
 
 ### `SOBRE MIM`
   - ⌨ Programador Fullstack Autodidata
