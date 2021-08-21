@@ -1,5 +1,3 @@
-![git](https://user-images.githubusercontent.com/48457700/130331663-3d427d18-d4b2-4ff6-9341-095a3cc1332c.png)
-
 ### `SOBRE MIM`
   - ⌨ Programador Fullstack Autodidata
   - 💻 Estudante de Segurança da Informação nas horas vagas
