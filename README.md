@@ -1,7 +1,7 @@
 # `Hi, I'm Geziel Elyon`
   - ⌨ Self-taught Fullstack Developer
   - 💻 Computer Science Student
-  - :books: Viciado em Livros (52)
+  - :books: Love read books
   - :sunglasses: 20 years old
   - :earth_americas: Brazil
 
