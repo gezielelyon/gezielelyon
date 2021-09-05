@@ -1,31 +1,25 @@
-### `SOBRE MIM`
-  - ⌨ Programador Fullstack Autodidata
-  - 💻 Estudante de Segurança da Informação nas horas vagas
+# `Hi, I'm Geziel Elyon`
+  - ⌨ Self-taught Fullstack Developer
+  - 💻 Computer Science Student
   - :books: Viciado em Livros (52)
-  - :sunglasses: Tenho 20 anos
-  - :earth_americas: Recife-PE
+  - :sunglasses: 20 years old
+  - :earth_americas: Brazil
 
-### `LINGUAGENS DE PROGRAMAÇÃO`
+## `Programming Languages`
   - Javascript
-  - Typescript (tipagem)
+  - Typescript (Typing)
 
-### `DESENVOLVIMENTO FRONT-END (WEB)`
+### `Web Techs`
   - HTML
   - ReactJs
   - NextJs
-  - CSS, SCSS, Styled-components
 
-### `DESENVOLVIMENTO FRONT-END (MOBILE)`
+### `Mobile Techs`
   - React-Native (CLI)
   - Expo
 
-### `DESENVOLVIMENTO BACK-END`
+### `Backend Techs`
   - NodeJs
-
-### `BANCO DE DADOS`
-  - PostgreSql (SQL)
-  - SQlite (SQL)
-  - MongoDB (NoSQL)
 
 <br/>[![programador404's github stats](https://github-readme-stats.vercel.app/api?username=programador404&count_private=true&count_private=true&theme=dracula)](https://github.com/programador404/github-readme-stats)
 
