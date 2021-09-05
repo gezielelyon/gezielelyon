@@ -9,16 +9,16 @@
   - Javascript
   - Typescript (Typing)
 
-### `Web Techs`
+## `Web Techs`
   - HTML
   - ReactJs
   - NextJs
 
-### `Mobile Techs`
+## `Mobile Techs`
   - React-Native (CLI)
   - Expo
 
-### `Backend Techs`
+## `Backend Techs`
   - NodeJs
 
 <br/>[![programador404's github stats](https://github-readme-stats.vercel.app/api?username=programador404&count_private=true&count_private=true&theme=dracula)](https://github.com/programador404/github-readme-stats)
