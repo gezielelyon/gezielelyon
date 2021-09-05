@@ -1,4 +1,4 @@
-# `Hi, my name's Geziel Elyon`
+# Hi, my name's Geziel Elyon
   - ⌨ Self-taught Fullstack Developer
   - 💻 Computer Science Student
   - :books: Love read books
