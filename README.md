@@ -1,24 +1,9 @@
-# Hi, my name's Geziel Elyon
-  - ⌨ Self-taught Fullstack Developer
+# `Hi, my name's Geziel Elyon`
+  - ⌨ Self-taught Fullstack Developer Javascript
   - 💻 Computer Science Student
   - :books: Love read books
   - :sunglasses: 20 years old
   - :earth_americas: Brazilian
-
-## `Programming Languages`
-  - Javascript
-  - Typescript (Typing)
-
-## `Web Techs`
-  - ReactJs
-  - NextJs
-
-## `Mobile Techs`
-  - React-Native (CLI)
-  - Expo
-
-## `Backend Techs`
-  - NodeJs
 
 <br/>[![programador404's github stats](https://github-readme-stats.vercel.app/api?username=programador404&count_private=true&count_private=true&theme=dracula)](https://github.com/programador404/github-readme-stats)
 
