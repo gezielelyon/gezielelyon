@@ -9,11 +9,11 @@
   <li>:earth_americas: Brazilian</li>
 </ul>
 
-</br>
-
 [![programador404's github stats](https://github-readme-stats.vercel.app/api?username=programador404&count_private=true&count_private=true&theme=dracula)](https://github.com/programador404/github-readme-stats)
   
-<div style="display: inline_block"><br>
+![1632672091881](https://user-images.githubusercontent.com/48457700/135771315-a297e615-0d80-4ba6-8d07-f830da2897f3.png)
+  
+<div style="display: inline_block">
   <img align="center" alt="Geziel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Geziel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Geziel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -34,10 +34,7 @@
   <img align="center" alt="Geziel-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
 </div>
 
-</br>
-
-![1632672091881](https://user-images.githubusercontent.com/48457700/135771315-a297e615-0d80-4ba6-8d07-f830da2897f3.png)
-
+<br/>
 
 [![Instagram Badge](https://img.shields.io/badge/-@programador404-black?style=flat-square&labelColor=black&logo=instagram&logoColor=white&link=https://instagram.com/_programador404)](https://instagram.com/_programador404) 
 [![Linkedin Badge](https://img.shields.io/badge/-Geziel%20Elyon-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geziel-elyon-a0a1381a5/)](https://www.linkedin.com/in/geziel-elyon-a0a1381a5/)
