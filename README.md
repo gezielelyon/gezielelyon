@@ -1,7 +1,7 @@
 <h1>Hi, my name's Geziel Elyon! Nice to meet you!!😀</h1>
 
 <ul>
-  <li>💻 Self-taught fullstack developer javascript</li>
+  <li>💻 Self-taught fullstack developer <strong>Javascript</strong></li>
   <li>🤓 Currently working on <a href="https://maisretorno.com/" target="_blank">Mais Retorno</a></li>
   <li>🖥 Computer science student</li>
   <li>:books: Love read books</li>
