@@ -9,7 +9,7 @@
   <li>:earth_americas: Brazilian</li>
 </ul>
 
-[![programador404's github stats](https://github-readme-stats.vercel.app/api?username=programador404&count_private=true&count_private=true&theme=great-gatsby)](https://github.com/programador404/github-readme-stats)
+[![programador404's github stats](https://github-readme-stats.vercel.app/api?username=programador404&count_private=true&count_private=true&theme=omni)](https://github.com/programador404/github-readme-stats)
   
 ![1632672091881](https://user-images.githubusercontent.com/48457700/135771315-a297e615-0d80-4ba6-8d07-f830da2897f3.png)
   
