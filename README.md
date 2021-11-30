@@ -8,10 +8,6 @@
   <li>:sunglasses: 20 years old</li>
   <li>:earth_americas: Brazilian</li>
 </ul>
-
-[![programador404's github stats](https://github-readme-stats.vercel.app/api?username=programador404&count_private=true&count_private=true&theme=great-gatsby)](https://github.com/programador404/github-readme-stats)
-  
-![1632672091881](https://user-images.githubusercontent.com/48457700/135771315-a297e615-0d80-4ba6-8d07-f830da2897f3.png)
   
 <div style="display: inline_block">
   <img title="Javascript" align="center" alt="Geziel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -36,5 +32,5 @@
 
 <br/>
 
-[![Instagram Badge](https://img.shields.io/badge/-@programador404-black?style=flat-square&labelColor=black&logo=instagram&logoColor=yellow&link=https://instagram.com/_programador404)](https://instagram.com/_programador404) 
-[![Linkedin Badge](https://img.shields.io/badge/-Geziel%20Elyon-black?style=flat-square&logo=Linkedin&logoColor=yellow&link=https://www.linkedin.com/in/geziel-elyon-a0a1381a5/)](https://www.linkedin.com/in/geziel-elyon-a0a1381a5/)
+[![Instagram Badge](https://img.shields.io/badge/-@programador404-black?style=flat-square&labelColor=black&logo=instagram&logoColor=white&link=https://instagram.com/_programador404)](https://instagram.com/_programador404) 
+[![Linkedin Badge](https://img.shields.io/badge/-Geziel%20Elyon-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geziel-elyon-a0a1381a5/)](https://www.linkedin.com/in/geziel-elyon-a0a1381a5/)
