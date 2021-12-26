@@ -9,6 +9,9 @@
   <li>:earth_americas: Brazilian</li>
 </ul>
   
+[![Instagram Badge](https://img.shields.io/badge/-@programador404-black?style=flat-square&labelColor=black&logo=instagram&logoColor=white&link=https://instagram.com/_programador404)](https://instagram.com/_programador404) 
+[![Linkedin Badge](https://img.shields.io/badge/-Geziel%20Elyon-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geziel-elyon-a0a1381a5/)](https://www.linkedin.com/in/geziel-elyon-a0a1381a5/)
+  
 <div style="display: inline_block">
   <img title="Javascript" align="center" alt="Geziel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img title="Typescript" align="center" alt="Geziel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -29,8 +32,3 @@
   <img title="Figma" align="center" alt="Geziel-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img title="Photoshop" align="center" alt="Geziel-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
 </div>
-
-<br/>
-
-[![Instagram Badge](https://img.shields.io/badge/-@programador404-black?style=flat-square&labelColor=black&logo=instagram&logoColor=white&link=https://instagram.com/_programador404)](https://instagram.com/_programador404) 
-[![Linkedin Badge](https://img.shields.io/badge/-Geziel%20Elyon-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geziel-elyon-a0a1381a5/)](https://www.linkedin.com/in/geziel-elyon-a0a1381a5/)
