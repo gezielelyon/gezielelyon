@@ -19,7 +19,7 @@
   <li>🤓 Currently working on <a href="https://maisretorno.com/" target="_blank">Mais Retorno</a></li>
   <li>🖥 Computer science student</li>
   <li>:books: Love read books</li>
-  <li>:sunglasses: 20 years old</li>
+  <li>:sunglasses: 21 years old</li>
   <li>:earth_americas: Brazilian</li>
 </ul>
 
