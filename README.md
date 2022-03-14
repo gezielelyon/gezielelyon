@@ -1,4 +1,4 @@
-<h1>Hello, my name's Geziel Elyon! Nice to meet you!!😀</h1>
+<h1>Hello, my name's Geziel Elyon! Nice to meet you!!🤘</h1>
 
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -15,10 +15,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <ul>
-  <li>💻 Self-taught fullstack developer</li>
-  <li>🤓 Software engineer at <a target="_blank" href="https://maisretorno.com/">Mais Retorno</a></li>
-  <li>🤘 You can find my website <a target="_blank" href="https://gezielelyon.com">here</a></li>
-  <li>🖥 Computer science student</li>
+  <li>🔥 Self-taught fullstack developer</li>
+  <li>👨‍💻 Software engineer at <a target="_blank" href="https://maisretorno.com/">Mais Retorno</a></li>
+  <li>💯 You can find my website <a target="_blank" href="https://gezielelyon.com">here</a></li>
+  <li>🖥️ Computer science student</li>
   <li>:books: Love read books</li>
   <li>:sunglasses: 21 years old</li>
   <li>:earth_americas: Brazilian</li>
