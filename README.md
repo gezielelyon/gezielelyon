@@ -16,8 +16,8 @@
 
 <ul>
   <li>💻 Self-taught fullstack developer</li>
-  <li>🤓 Currently working at <a href="https://maisretorno.com/" target="_blank">Mais Retorno</a></li>
-  <li>🤘 You can find my website <a href="https://gezielelyon.com" target="_blank">here</a></li>
+  <li>🤓 Currently working at <a target="_blank" href="https://maisretorno.com/">Mais Retorno</a></li>
+  <li>🤘 You can find my website <a target="_blank" href="https://gezielelyon.com">here</a></li>
   <li>🖥 Computer science student</li>
   <li>:books: Love read books</li>
   <li>:sunglasses: 21 years old</li>
