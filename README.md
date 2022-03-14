@@ -5,10 +5,10 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Next JS](https://img.shields.io/badge/-Next-05122A?style=flat&logo=next.js)
+![Next JS](https://img.shields.io/badge/-Next-05122A?style=flat&logo=next.js)&nbsp;
 ![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Nest JS](https://img.shields.io/badge/-nestjs-05122A?style=flat&logo=nestjs&logoColor=red)
+![Nest JS](https://img.shields.io/badge/-nestjs-05122A?style=flat&logo=nestjs&logoColor=red)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
