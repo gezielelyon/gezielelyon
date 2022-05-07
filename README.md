@@ -6,13 +6,10 @@
 ![Typescript](https://img.shields.io/badge/-Typescript-000000?style=flat&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)&nbsp;
 ![Next JS](https://img.shields.io/badge/-Next-000000?style=flat&logo=next.js)&nbsp;
-![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)&nbsp;
 ![Nest JS](https://img.shields.io/badge/-nestjs-000000?style=flat&logo=nestjs&logoColor=red)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <ul>
   <li>🔥 Self-taught fullstack developer</li>
