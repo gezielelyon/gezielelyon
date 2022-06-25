@@ -13,7 +13,7 @@
 ![Go Lang](https://img.shields.io/badge/-GoLang-000000?style=flat&logo=go)&nbsp;
 
 <ul>
-  <li>👨‍💻 Fullstack Developer at <a target="_blank" href="https://maisretorno.com/">Mais Retorno</a></li>
+  <li>👨‍💻 Fullstack developer at <a target="_blank" href="https://maisretorno.com/">Mais Retorno</a></li>
   <li>💯 You can see my website <a target="_blank" href="https://gezielelyon.com">here</a></li>
   <li>🖥️ Computer science student</li>
   <li>:books: Love read books</li>
