@@ -21,7 +21,7 @@
   <li>:earth_americas: Brazilian</li>
 </ul>
 
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=programador404&show_icons=true&theme=great-gatsby" alt="Geziel's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=programador404&show_icons=true&theme=github_dark" alt="Geziel's stats"/>
   
-[![Instagram Badge](https://img.shields.io/badge/-@gezielelyon-black?style=flat-square&labelColor=black&logo=instagram&logoColor=yellow&link=https://instagram.com/gezielelyon)](https://instagram.com/gezielelyon) 
-[![Linkedin Badge](https://img.shields.io/badge/-Geziel%20Elyon-black?style=flat-square&logo=Linkedin&logoColor=yellow&link=https://www.linkedin.com/in/geziel-elyon-a0a1381a5/)](https://www.linkedin.com/in/geziel-elyon-a0a1381a5/)
+[![Instagram Badge](https://img.shields.io/badge/-@gezielelyon-black?style=flat-square&labelColor=black&logo=instagram&logoColor=blue&link=https://instagram.com/gezielelyon)](https://instagram.com/gezielelyon) 
+[![Linkedin Badge](https://img.shields.io/badge/-Geziel%20Elyon-black?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/geziel-elyon-a0a1381a5/)](https://www.linkedin.com/in/geziel-elyon-a0a1381a5/)
