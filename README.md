@@ -10,6 +10,7 @@
 ![Nest JS](https://img.shields.io/badge/-nestjs-000000?style=flat&logo=nestjs&logoColor=red)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)&nbsp;
+![Go Lang](https://img.shields.io/badge/-GoLang-000000?style=flat&logo=go)&nbsp;
 
 <ul>
   <li>🔥 Self-taught fullstack developer</li>
