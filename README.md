@@ -13,7 +13,7 @@
 ![Go Lang](https://img.shields.io/badge/-GoLang-000000?style=flat&logo=go)&nbsp;
 
 <ul>
-  <li>👨‍💻 Backend developer at <a target="_blank" href="https://pagar.me/">Pagarme</a>/<a target="_blank" href="https://www.stone.com.br/">Stone</a></li>
+  <li>👨‍💻 Software engineer at <a target="_blank" href="https://pagar.me/">Pagarme</a>/<a target="_blank" href="https://www.stone.com.br/">Stone</a></li>
   <li>💯 You can see my website <a target="_blank" href="https://gezielelyon.com">here</a></li>
   <li>🖥️ Computer science student</li>
   <li>:books: Love read books</li>
