@@ -14,7 +14,7 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=kubernetes)&nbsp;
 ![Terraform](https://img.shields.io/badge/-Terraform-000000?style=flat&logo=terraform)&nbsp;
 ![Elastic](https://img.shields.io/badge/-Elastic-000000?style=flat&logo=elastic)&nbsp;
-![Elasticsearch](https://img.shields.io/badge/-ElasticSearch-000000?style=flat&logo=elasticsearch)&nbsp;
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-000000?style=flat&logo=elasticsearch)&nbsp;
 ![Logstash](https://img.shields.io/badge/-Logstash-000000?style=flat&logo=logstash)&nbsp;
 
 <ul>
