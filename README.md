@@ -2,14 +2,14 @@
 
 ![Javascript](https://img.shields.io/badge/-Javascript-0D1117?style=flat&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=flat&logo=typescript)&nbsp;
-![NodeJS](https://img.shields.io/badge/-NodeJS-0D1117?style=flat&logo=node.js)&nbsp;
-![NestJS](https://img.shields.io/badge/-NestJS-0D1117?style=flat&logo=nestjs&logoColor=red)&nbsp;
+![NodeJS](https://img.shields.io/badge/-Node-0D1117?style=flat&logo=node.js)&nbsp;
+![NestJS](https://img.shields.io/badge/-Nest-0D1117?style=flat&logo=nestjs&logoColor=red)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-0D1117?style=flat&logo=jest&logoColor=yellow)&nbsp;
 ![Cypress](https://img.shields.io/badge/-Cypress-0D1117?style=flat&logo=cypress&logoColor=blue)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-ReactJS-0D1117?style=flat&logo=react)&nbsp;
-![NextJS](https://img.shields.io/badge/-NextJS-0D1117?style=flat&logo=next.js)&nbsp;
+![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
+![NextJS](https://img.shields.io/badge/-Next-0D1117?style=flat&logo=next.js)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-0D1117?style=flat&logo=kubernetes)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-0D1117?style=flat&logo=amazon-aws&logoColor=orange)&nbsp;
