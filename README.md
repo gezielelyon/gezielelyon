@@ -23,6 +23,9 @@
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=flat&logo=linux)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/-GitHubActions-0D1117?style=flat&logo=github-actions)&nbsp;
+![NPM](https://img.shields.io/badge/-NPM-0D1117?style=flat&logo=npm)&nbsp;
+![Yarn](https://img.shields.io/badge/-Yarn-0D1117?style=flat&logo=yarn)&nbsp;
 
 <ul>
   <li>👨‍💻 Software engineer at <a target="_blank" href="https://pagar.me/"><b>Pagarme</b></a>/<a target="_blank" href="https://www.stone.com.br/"><b>Stone</b></a></li>
