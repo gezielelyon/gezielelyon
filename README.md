@@ -24,6 +24,7 @@
 ![Postgres](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat&logo=postgresql)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-0D1117?style=flat&logo=graphql&logoColor=pink)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=flat&logo=mongodb)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-0D1117?style=flat&logo=redis)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-0D1117?style=flat&logo=firebase)&nbsp;
 ![Prisma](https://img.shields.io/badge/-Prisma-0D1117?style=flat&logo=prisma)&nbsp;
 ![Sequelize](https://img.shields.io/badge/-Sequelize-0D1117?style=flat&logo=sequelize)&nbsp;
