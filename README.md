@@ -38,6 +38,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=flat&logo=figma)&nbsp;
 ![VSCode](https://img.shields.io/badge/-VSCode-0D1117?style=flat&logo=visual-studio-code&logoColor=blue)&nbsp;
 ![Insomnia](https://img.shields.io/badge/-Insomnia-0D1117?style=flat&logo=insomnia&logoColor=purple)&nbsp;
+![Lens](https://img.shields.io/badge/-Lens-0D1117?style=flat&logo=lens)&nbsp;
 
 <ul>
   <li>👨‍💻 Software engineer at <a target="_blank" href="https://pagar.me/"><b>Pagarme</b></a>/<a target="_blank" href="https://www.stone.com.br/"><b>Stone</b></a></li>
