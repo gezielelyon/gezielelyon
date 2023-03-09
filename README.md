@@ -2,21 +2,21 @@
 
 ![Javascript](https://img.shields.io/badge/-Javascript-0D1117?style=flat&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=flat&logo=typescript)&nbsp;
-![NodeJS](https://img.shields.io/badge/-Node-0D1117?style=flat&logo=node.js)&nbsp;
-![NestJS](https://img.shields.io/badge/-Nest-0D1117?style=flat&logo=nestjs&logoColor=red)&nbsp;
+![NodeJS](https://img.shields.io/badge/-NodeJS-0D1117?style=flat&logo=node.js)&nbsp;
+![NestJS](https://img.shields.io/badge/-NestJS-0D1117?style=flat&logo=nestjs&logoColor=red)&nbsp;
 ![Kafka](https://img.shields.io/badge/-ApacheKafka-0D1117?style=flat&logo=apache-kafka)&nbsp;
 ![Rabbitmq](https://img.shields.io/badge/-RabbitMQ-0D1117?style=flat&logo=rabbitmq)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
-![NextJS](https://img.shields.io/badge/-Next-0D1117?style=flat&logo=next.js)&nbsp;
+![React](https://img.shields.io/badge/-ReactJS-0D1117?style=flat&logo=react)&nbsp;
+![NextJS](https://img.shields.io/badge/-NextJS-0D1117?style=flat&logo=next.js)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-0D1117?style=flat&logo=kubernetes)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-0D1117?style=flat&logo=amazon-aws)&nbsp;
 ![Terraform](https://img.shields.io/badge/-Terraform-0D1117?style=flat&logo=terraform)&nbsp;
-![Elastic](https://img.shields.io/badge/-Elastic-0D1117?style=flat&logo=elastic)&nbsp;
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-0D1117?style=flat&logo=elasticsearch)&nbsp;
 ![Logstash](https://img.shields.io/badge/-Logstash-0D1117?style=flat&logo=logstash)&nbsp;
+![Elastic](https://img.shields.io/badge/-Elastic-0D1117?style=flat&logo=elastic)&nbsp;
 ![Postgres](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat&logo=postgresql)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-0D1117?style=flat&logo=graphql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=flat&logo=mongodb)&nbsp;
