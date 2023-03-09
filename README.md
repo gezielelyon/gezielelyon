@@ -27,6 +27,8 @@
 ![GitHub Actions](https://img.shields.io/badge/-GitHubActions-0D1117?style=flat&logo=github-actions)&nbsp;
 ![NPM](https://img.shields.io/badge/-NPM-0D1117?style=flat&logo=npm)&nbsp;
 ![Yarn](https://img.shields.io/badge/-Yarn-0D1117?style=flat&logo=yarn)&nbsp;
+![VSCode](https://img.shields.io/badge/-VSCode-0D1117?style=flat&logo=visual-studio-code)&nbsp;
+![Insomnia](https://img.shields.io/badge/-Insomnia-0D1117?style=flat&logo=insomnia)&nbsp;
 
 <ul>
   <li>👨‍💻 Software engineer at <a target="_blank" href="https://pagar.me/"><b>Pagarme</b></a>/<a target="_blank" href="https://www.stone.com.br/"><b>Stone</b></a></li>
