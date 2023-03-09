@@ -36,7 +36,7 @@
   <li>💯 You can see my website <a target="_blank" href="https://gezielelyon.com"><b>here</b></a></li>
   <li>:books: I love to read books</li>
   <li>:sunglasses: I'm 21 years old</li>
-  <li>🔥 Entrepreneur</li>
+  <li>🤘 Entrepreneur</li>
   <li>:earth_americas: Brazilian</li>
 </ul>
 
