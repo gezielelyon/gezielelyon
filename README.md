@@ -35,6 +35,7 @@
 ![GitHub Actions](https://img.shields.io/badge/-GitHubActions-0D1117?style=flat&logo=github-actions)&nbsp;
 ![NPM](https://img.shields.io/badge/-NPM-0D1117?style=flat&logo=npm)&nbsp;
 ![Yarn](https://img.shields.io/badge/-Yarn-0D1117?style=flat&logo=yarn)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-0D1117?style=flat&logo=figma)&nbsp;
 ![VSCode](https://img.shields.io/badge/-VSCode-0D1117?style=flat&logo=visual-studio-code&logoColor=blue)&nbsp;
 ![Insomnia](https://img.shields.io/badge/-Insomnia-0D1117?style=flat&logo=insomnia&logoColor=purple)&nbsp;
 
