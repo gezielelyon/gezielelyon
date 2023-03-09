@@ -1,4 +1,4 @@
-<h1>Hello, my name's Geziel Elyon! Nice to meet you!!🤘🔥</h1>
+<h1>Hi, welcome to my Github! It's a pleasure to have you here!🔥</h1>
 
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -19,14 +19,14 @@
 
 <ul>
   <li>👨‍💻 Software engineer at <a target="_blank" href="https://pagar.me/">Pagarme</a>/<a target="_blank" href="https://www.stone.com.br/">Stone</a></li>
-  <li>💯 You can see my website <a target="_blank" href="https://gezielelyon.com">here</a></li>
+  <li>💯 You can see my own website <a target="_blank" href="https://gezielelyon.com">here</a></li>
   <li>🖥️ Computer science student</li>
   <li>:books: Love read books</li>
   <li>:sunglasses: 21 years old</li>
   <li>:earth_americas: Brazilian</li>
 </ul>
 
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=programador404&show_icons=true&theme=great-gatsby" alt="Geziel's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=programador404&show_icons=true&theme=transparent" alt="Geziel's stats"/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Geziel%20Elyon-black?style=flat-square&logo=Linkedin&logoColor=yellow&link=https://www.linkedin.com/in/geziel-elyon-a0a1381a5/)](https://www.linkedin.com/in/geziel-elyon-a0a1381a5/)
-[![Instagram Badge](https://img.shields.io/badge/-@gezielelyon-black?style=flat-square&labelColor=black&logo=instagram&logoColor=yellow&link=https://instagram.com/gezielelyon)](https://instagram.com/gezielelyon) 
+[![Linkedin Badge](https://img.shields.io/badge/-Geziel%20Elyon-010409?style=flat-square&logo=Linkedin&logoColor=025CDA&link=https://www.linkedin.com/in/geziel-elyon-a0a1381a5/)](https://www.linkedin.com/in/geziel-elyon-a0a1381a5/)
+[![Instagram Badge](https://img.shields.io/badge/-@gezielelyon-010409?style=flat-square&labelColor=black&logo=instagram&logoColor=025CDA&link=https://instagram.com/gezielelyon)](https://instagram.com/gezielelyon) 
