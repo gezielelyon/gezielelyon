@@ -6,12 +6,12 @@
 ![NestJS](https://img.shields.io/badge/-Nest-0D1117?style=flat&logo=nestjs&logoColor=red)&nbsp;
 ![AdonisJS](https://img.shields.io/badge/-Adonis-0D1117?style=flat&logo=adonisjs)&nbsp;
 ![Apollo GraphQL](https://img.shields.io/badge/-ApolloGraphQL-0D1117?style=flat&logo=apollo-graphql)&nbsp;
-![Jest](https://img.shields.io/badge/-Jest-0D1117?style=flat&logo=jest&logoColor=yellow)&nbsp;
-![Cypress](https://img.shields.io/badge/-Cypress-0D1117?style=flat&logo=cypress&logoColor=blue)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
 ![NextJS](https://img.shields.io/badge/-Next-0D1117?style=flat&logo=next.js)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-0D1117?style=flat&logo=jest&logoColor=yellow)&nbsp;
+![Cypress](https://img.shields.io/badge/-Cypress-0D1117?style=flat&logo=cypress&logoColor=blue)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-0D1117?style=flat&logo=kubernetes)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-0D1117?style=flat&logo=amazon-aws&logoColor=orange)&nbsp;
@@ -22,10 +22,10 @@
 ![Elastic](https://img.shields.io/badge/-Elastic-0D1117?style=flat&logo=elastic)&nbsp;
 ![Kafka](https://img.shields.io/badge/-ApacheKafka-0D1117?style=flat&logo=apache-kafka)&nbsp;
 ![Rabbitmq](https://img.shields.io/badge/-RabbitMQ-0D1117?style=flat&logo=rabbitmq)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-0D1117?style=flat&logo=redis)&nbsp;
 ![Postgres](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat&logo=postgresql)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-0D1117?style=flat&logo=graphql&logoColor=pink)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=flat&logo=mongodb)&nbsp;
-![Redis](https://img.shields.io/badge/-Redis-0D1117?style=flat&logo=redis)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-0D1117?style=flat&logo=firebase)&nbsp;
 ![Prisma](https://img.shields.io/badge/-Prisma-0D1117?style=flat&logo=prisma)&nbsp;
 ![Sequelize](https://img.shields.io/badge/-Sequelize-0D1117?style=flat&logo=sequelize)&nbsp;
@@ -52,4 +52,4 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=programador404&show_icons=true&theme=transparent" alt="Geziel's stats"/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Geziel%20Elyon-0D1117?style=flat-square&logo=Linkedin&logoColor=1F6FEB&link=https://www.linkedin.com/in/geziel-elyon-a0a1381a5/)](https://www.linkedin.com/in/geziel-elyon-a0a1381a5/)
-[![Instagram Badge](https://img.shields.io/badge/-@gezielelyon-0D1117?style=flat-square&labelColor=black&logo=instagram&logoColor=1F6FEB&link=https://instagram.com/gezielelyon)](https://instagram.com/gezielelyon) 
+[![Instagram Badge](https://img.shields.io/badge/-@gezielelyon-0D1117?style=flat-square&logo=instagram&logoColor=1F6FEB&link=https://instagram.com/gezielelyon)](https://instagram.com/gezielelyon) 
