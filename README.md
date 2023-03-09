@@ -32,10 +32,11 @@
 
 <ul>
   <li>👨‍💻 Software engineer at <a target="_blank" href="https://pagar.me/"><b>Pagarme</b></a>/<a target="_blank" href="https://www.stone.com.br/"><b>Stone</b></a></li>
-  <li>💯 You can see my own website <a target="_blank" href="https://gezielelyon.com"><b>here</b></a></li>
-  <li>🖥️ Computer science student</li>
-  <li>:books: Love read books</li>
-  <li>:sunglasses: 21 years old</li>
+  <li>🖥️ Self-taught programming student</li>
+  <li>💯 You can see my website <a target="_blank" href="https://gezielelyon.com"><b>here</b></a></li>
+  <li>:books: I love to read books</li>
+  <li>:sunglasses: I'm 21 years old</li>
+  <li>🔥 Entrepreneur</li>
   <li>:earth_americas: Brazilian</li>
 </ul>
 
