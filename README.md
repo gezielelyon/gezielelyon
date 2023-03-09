@@ -4,8 +4,6 @@
 ![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=flat&logo=typescript)&nbsp;
 ![NodeJS](https://img.shields.io/badge/-NodeJS-0D1117?style=flat&logo=node.js)&nbsp;
 ![NestJS](https://img.shields.io/badge/-NestJS-0D1117?style=flat&logo=nestjs&logoColor=red)&nbsp;
-![Kafka](https://img.shields.io/badge/-ApacheKafka-0D1117?style=flat&logo=apache-kafka)&nbsp;
-![Rabbitmq](https://img.shields.io/badge/-RabbitMQ-0D1117?style=flat&logo=rabbitmq)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React](https://img.shields.io/badge/-ReactJS-0D1117?style=flat&logo=react)&nbsp;
@@ -16,7 +14,10 @@
 ![Terraform](https://img.shields.io/badge/-Terraform-0D1117?style=flat&logo=terraform)&nbsp;
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-0D1117?style=flat&logo=elasticsearch)&nbsp;
 ![Logstash](https://img.shields.io/badge/-Logstash-0D1117?style=flat&logo=logstash)&nbsp;
+![Kibana](https://img.shields.io/badge/-Kibana-0D1117?style=flat&logo=kibana)&nbsp;
 ![Elastic](https://img.shields.io/badge/-Elastic-0D1117?style=flat&logo=elastic)&nbsp;
+![Kafka](https://img.shields.io/badge/-ApacheKafka-0D1117?style=flat&logo=apache-kafka)&nbsp;
+![Rabbitmq](https://img.shields.io/badge/-RabbitMQ-0D1117?style=flat&logo=rabbitmq)&nbsp;
 ![Postgres](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat&logo=postgresql)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-0D1117?style=flat&logo=graphql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=flat&logo=mongodb)&nbsp;
