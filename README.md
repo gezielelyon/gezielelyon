@@ -5,6 +5,7 @@
 ![NodeJS](https://img.shields.io/badge/-Node-0D1117?style=flat&logo=node.js)&nbsp;
 ![NestJS](https://img.shields.io/badge/-Nest-0D1117?style=flat&logo=nestjs&logoColor=red)&nbsp;
 ![AdonisJS](https://img.shields.io/badge/-Adonis-0D1117?style=flat&logo=adonisjs)&nbsp;
+![Apollo GraphQL](https://img.shields.io/badge/-ApolloGraphQL-0D1117?style=flat&logo=apollo-graphql)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-0D1117?style=flat&logo=jest&logoColor=yellow)&nbsp;
 ![Cypress](https://img.shields.io/badge/-Cypress-0D1117?style=flat&logo=cypress&logoColor=blue)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
