@@ -33,13 +33,13 @@
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
 ![GitHub Actions](https://img.shields.io/badge/-GitHubActions-0D1117?style=flat&logo=github-actions)&nbsp;
+![Datadog](https://img.shields.io/badge/-Datadog-0D1117?style=flat&logo=datadog)&nbsp;
 ![NPM](https://img.shields.io/badge/-NPM-0D1117?style=flat&logo=npm)&nbsp;
 ![Yarn](https://img.shields.io/badge/-Yarn-0D1117?style=flat&logo=yarn)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=flat&logo=figma)&nbsp;
 ![VSCode](https://img.shields.io/badge/-VSCode-0D1117?style=flat&logo=visual-studio-code&logoColor=blue)&nbsp;
 ![Insomnia](https://img.shields.io/badge/-Insomnia-0D1117?style=flat&logo=insomnia&logoColor=purple)&nbsp;
 ![Lens](https://img.shields.io/badge/-Lens-0D1117?style=flat&logo=lens)&nbsp;
-![Datadog](https://img.shields.io/badge/-Datadog-0D1117?style=flat&logo=datadog)&nbsp;
 
 <ul>
   <li>👨‍💻 Software engineer at <a target="_blank" href="https://pagar.me/"><b>Pagarme</b></a>/<a target="_blank" href="https://www.stone.com.br/"><b>Stone</b></a></li>
