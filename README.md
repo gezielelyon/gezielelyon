@@ -40,13 +40,14 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-0D1117?style=flat&logo=visual-studio-code&logoColor=blue)&nbsp;
 ![Insomnia](https://img.shields.io/badge/-Insomnia-0D1117?style=flat&logo=insomnia&logoColor=purple)&nbsp;
 ![Lens](https://img.shields.io/badge/-Lens-0D1117?style=flat&logo=lens)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-0D1117?style=flat&logo=markdown)&nbsp;
 
 <ul>
   <li>👨‍💻 Software engineer at <a target="_blank" href="https://pagar.me/"><b>Pagarme</b></a>/<a target="_blank" href="https://www.stone.com.br/"><b>Stone</b></a></li>
   <li>🖥️ Self-taught programming student</li>
   <li>💯 You can see my website <a target="_blank" href="https://gezielelyon.com"><b>here</b></a></li>
   <li>:books: I love to read books</li>
-  <li>:sunglasses: I'm 21 years old</li>
+  <li>:sunglasses: I'm 22 years old</li>
   <li>🤘 Entrepreneur</li>
   <li>:earth_americas: Brazilian</li>
 </ul>
