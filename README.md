@@ -52,7 +52,7 @@
   <li>:earth_americas: Brazilian</li>
 </ul>
 
-<img width="550em" src="https://github-readme-stats.vercel.app/api?username=gezielelyon&show_icons=true&theme=transparent" alt="Geziel's stats"/>
+[//]: <> (<img width="550em" src="https://github-readme-stats.vercel.app/api?username=gezielelyon&show_icons=true&theme=transparent" alt="Geziel's stats"/>)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Geziel%20Elyon-0D1117?style=flat-square&logo=Linkedin&logoColor=1F6FEB&link=https://www.linkedin.com/in/geziel-elyon-a0a1381a5/)](https://www.linkedin.com/in/geziel-elyon-a0a1381a5/)
 [![Instagram Badge](https://img.shields.io/badge/-@gezielelyon-0D1117?style=flat-square&logo=instagram&logoColor=1F6FEB&link=https://instagram.com/gezielelyon)](https://instagram.com/gezielelyon) 
