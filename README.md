@@ -11,6 +11,7 @@
 ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
 ![NextJS](https://img.shields.io/badge/-Next-0D1117?style=flat&logo=next.js)&nbsp;
 ![Vite](https://img.shields.io/badge/-Vite-0D1117?style=flat&logo=vite)&nbsp;
+![Gatsby](https://img.shields.io/badge/-Gatsby-0D1117?style=flat&logo=gatsby)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-Tailwind-0D1117?style=flat&logo=tailwind-css)&nbsp;
 ![Radix](https://img.shields.io/badge/-Radix-0D1117?style=flat&logo=radix-ui)&nbsp;
 ![Shadcn](https://img.shields.io/badge/-Shadcn-0D1117?style=flat&logo=shadcn/ui)&nbsp;
