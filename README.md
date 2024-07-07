@@ -42,7 +42,7 @@
 ![Gitlab](https://img.shields.io/badge/-Gitlab-0D1117?style=flat&logo=gitlab)&nbsp;
 ![GitHub Actions](https://img.shields.io/badge/-GitHubActions-0D1117?style=flat&logo=github-actions)&nbsp;
 ![Datadog](https://img.shields.io/badge/-Datadog-0D1117?style=flat&logo=datadog)&nbsp;
-![Argo](https://img.shields.io/badge/-Argo-0D1117?style=flat&logo=argo)&nbsp;
+![ArgoCD](https://img.shields.io/badge/-ArgoCD-0D1117?style=flat&logo=argo)&nbsp;
 ![NPM](https://img.shields.io/badge/-NPM-0D1117?style=flat&logo=npm)&nbsp;
 ![Yarn](https://img.shields.io/badge/-Yarn-0D1117?style=flat&logo=yarn)&nbsp;
 ![Pnpm](https://img.shields.io/badge/-Pnpm-0D1117?style=flat&logo=pnpm)&nbsp;
