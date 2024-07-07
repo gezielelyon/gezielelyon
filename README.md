@@ -9,7 +9,8 @@
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
-![NextJS](https://img.shields.io/badge/-Next-0D1117?style=flat&logo=next.js)&nbsp;
+![Next](https://img.shields.io/badge/-Next-0D1117?style=flat&logo=next.js)&nbsp;
+![Vercel](https://img.shields.io/badge/-Vercel-0D1117?style=flat&logo=vercel)&nbsp;
 ![Vite](https://img.shields.io/badge/-Vite-0D1117?style=flat&logo=vite)&nbsp;
 ![Gatsby](https://img.shields.io/badge/-Gatsby-0D1117?style=flat&logo=gatsby)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-Tailwind-0D1117?style=flat&logo=tailwind-css)&nbsp;
@@ -41,7 +42,6 @@
 ![GitHub Actions](https://img.shields.io/badge/-GitHubActions-0D1117?style=flat&logo=github-actions)&nbsp;
 ![Datadog](https://img.shields.io/badge/-Datadog-0D1117?style=flat&logo=datadog)&nbsp;
 ![Argo](https://img.shields.io/badge/-Argo-0D1117?style=flat&logo=argo)&nbsp;
-![Vercel](https://img.shields.io/badge/-Vercel-0D1117?style=flat&logo=vercel)&nbsp;
 ![NPM](https://img.shields.io/badge/-NPM-0D1117?style=flat&logo=npm)&nbsp;
 ![Yarn](https://img.shields.io/badge/-Yarn-0D1117?style=flat&logo=yarn)&nbsp;
 ![Pnpm](https://img.shields.io/badge/-Pnpm-0D1117?style=flat&logo=pnpm)&nbsp;
