@@ -10,12 +10,17 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
 ![NextJS](https://img.shields.io/badge/-Next-0D1117?style=flat&logo=next.js)&nbsp;
+![Vite](https://img.shields.io/badge/-Vite-0D1117?style=flat&logo=vite)&nbsp;
+![Tailwind](https://img.shields.io/badge/-Tailwind-0D1117?style=flat&logo=tailwind-css)&nbsp;
+![Radix](https://img.shields.io/badge/-Radix-0D1117?style=flat&logo=radix-ui)&nbsp;
+![Shadcn](https://img.shields.io/badge/-Shadcn-0D1117?style=flat&logo=shadcn/ui)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-0D1117?style=flat&logo=jest&logoColor=yellow)&nbsp;
 ![Cypress](https://img.shields.io/badge/-Cypress-0D1117?style=flat&logo=cypress&logoColor=blue)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-0D1117?style=flat&logo=kubernetes)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-0D1117?style=flat&logo=amazon-aws&logoColor=orange)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-0D1117?style=flat&logo=amazon-web-services&logoColor=orange)&nbsp;
 ![Terraform](https://img.shields.io/badge/-Terraform-0D1117?style=flat&logo=terraform&logoColor=purple)&nbsp;
+![Golang](https://img.shields.io/badge/-Golang-0D1117?style=flat&logo=go)&nbsp;
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-0D1117?style=flat&logo=elasticsearch&logoColor=green)&nbsp;
 ![Logstash](https://img.shields.io/badge/-Logstash-0D1117?style=flat&logo=logstash&logoColor=yellow)&nbsp;
 ![Kibana](https://img.shields.io/badge/-Kibana-0D1117?style=flat&logo=kibana&logoColor=pink)&nbsp;
@@ -34,25 +39,25 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
 ![GitHub Actions](https://img.shields.io/badge/-GitHubActions-0D1117?style=flat&logo=github-actions)&nbsp;
 ![Datadog](https://img.shields.io/badge/-Datadog-0D1117?style=flat&logo=datadog)&nbsp;
+![Argo](https://img.shields.io/badge/-Argo-0D1117?style=flat&logo=argo)&nbsp;
 ![NPM](https://img.shields.io/badge/-NPM-0D1117?style=flat&logo=npm)&nbsp;
 ![Yarn](https://img.shields.io/badge/-Yarn-0D1117?style=flat&logo=yarn)&nbsp;
+![Pnpm](https://img.shields.io/badge/-Pnpm-0D1117?style=flat&logo=pnpm)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=flat&logo=figma)&nbsp;
 ![VSCode](https://img.shields.io/badge/-VSCode-0D1117?style=flat&logo=visual-studio-code&logoColor=blue)&nbsp;
 ![Insomnia](https://img.shields.io/badge/-Insomnia-0D1117?style=flat&logo=insomnia&logoColor=purple)&nbsp;
 ![Lens](https://img.shields.io/badge/-Lens-0D1117?style=flat&logo=lens)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-0D1117?style=flat&logo=markdown)&nbsp;
+![Slack](https://img.shields.io/badge/-Slack-0D1117?style=flat&logo=slack&logoColor=pink)&nbsp;
 
 <ul>
-  <li>👨‍💻 Software engineer at <a target="_blank" href="https://pagar.me/"><b>Pagarme</b></a>/<a target="_blank" href="https://www.stone.com.br/"><b>Stone</b></a></li>
-  <li>🖥️ Self-taught programming student</li>
-  <li>💯 You can see my website <a target="_blank" href="https://gezielelyon.com"><b>here</b></a></li>
-  <li>:books: I love to read books</li>
-  <li>:sunglasses: I'm 22 years old</li>
-  <li>🤘 Entrepreneur</li>
+  <li>🖥️ Software engineer and Entrepreneur
+  <li>❤️ Passionate about Technology</li>
+  <li>⚒️ Bodybuilding Lover</li>
+  <li>:books: Book Addict</li>
+  <li>:sunglasses: 23 years old</li>
   <li>:earth_americas: Brazilian</li>
 </ul>
 
-[//]: <> (<img width="550em" src="https://github-readme-stats.vercel.app/api?username=gezielelyon&show_icons=true&theme=transparent" alt="Geziel's stats"/>)
+<img width="550em" src="https://github-readme-stats.vercel.app/api?username=gezielelyon&show_icons=true&theme=transparent" alt="Geziel's stats"/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Geziel%20Elyon-0D1117?style=flat-square&logo=Linkedin&logoColor=1F6FEB&link=https://www.linkedin.com/in/geziel-elyon-a0a1381a5/)](https://www.linkedin.com/in/geziel-elyon-a0a1381a5/)
-[![Instagram Badge](https://img.shields.io/badge/-@gezielelyon-0D1117?style=flat-square&logo=instagram&logoColor=1F6FEB&link=https://instagram.com/gezielelyon)](https://instagram.com/gezielelyon) 
