@@ -39,6 +39,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=flat&logo=linux)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
+![Gitlab](https://img.shields.io/badge/-Gitlab-0D1117?style=flat&logo=gitlab)&nbsp;
 ![GitHub Actions](https://img.shields.io/badge/-GitHubActions-0D1117?style=flat&logo=github-actions)&nbsp;
 ![Datadog](https://img.shields.io/badge/-Datadog-0D1117?style=flat&logo=datadog)&nbsp;
 ![Argo](https://img.shields.io/badge/-Argo-0D1117?style=flat&logo=argo)&nbsp;
