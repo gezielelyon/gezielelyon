@@ -40,11 +40,12 @@
 ![GitHub Actions](https://img.shields.io/badge/-GitHubActions-0D1117?style=flat&logo=github-actions)&nbsp;
 ![Datadog](https://img.shields.io/badge/-Datadog-0D1117?style=flat&logo=datadog)&nbsp;
 ![Argo](https://img.shields.io/badge/-Argo-0D1117?style=flat&logo=argo)&nbsp;
+![Vercel](https://img.shields.io/badge/-Vercel-0D1117?style=flat&logo=vercel)&nbsp;
 ![NPM](https://img.shields.io/badge/-NPM-0D1117?style=flat&logo=npm)&nbsp;
 ![Yarn](https://img.shields.io/badge/-Yarn-0D1117?style=flat&logo=yarn)&nbsp;
 ![Pnpm](https://img.shields.io/badge/-Pnpm-0D1117?style=flat&logo=pnpm)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=flat&logo=figma)&nbsp;
-![VSCode](https://img.shields.io/badge/-VSCode-0D1117?style=flat&logo=visual-studio-code&logoColor=blue)&nbsp;
+![Copilot](https://img.shields.io/badge/-Copilot-0D1117?style=flat&logo=github-copilot)&nbsp;
 ![Insomnia](https://img.shields.io/badge/-Insomnia-0D1117?style=flat&logo=insomnia&logoColor=purple)&nbsp;
 ![Lens](https://img.shields.io/badge/-Lens-0D1117?style=flat&logo=lens)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-0D1117?style=flat&logo=markdown)&nbsp;
@@ -54,7 +55,7 @@
   <li>🖥️ Software engineer and Entrepreneur
   <li>❤️ Passionate about Technology</li>
   <li>⚒️ Bodybuilding Lover</li>
-  <li>:books: Book Addict</li>
+  <li>:books: Frequent reader</li>
   <li>:sunglasses: 23 years old</li>
   <li>:earth_americas: Brazilian</li>
 </ul>
