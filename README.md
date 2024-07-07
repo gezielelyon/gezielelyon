@@ -62,5 +62,4 @@
   <li>:earth_americas: Brazilian</li>
 </ul>
 
-<img width="550em" src="https://github-readme-stats.vercel.app/api?username=gezielelyon&show_icons=true&theme=transparent" alt="Geziel's stats"/>
-
+[//]: <> (<img width="550em" src="https://github-readme-stats.vercel.app/api?username=gezielelyon&show_icons=true&theme=transparent" alt="Geziel's stats"/>)
