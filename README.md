@@ -21,10 +21,10 @@
 ![AWS](https://img.shields.io/badge/-AWS-0D1117?style=flat&logo=amazon-web-services&logoColor=orange)&nbsp;
 ![Terraform](https://img.shields.io/badge/-Terraform-0D1117?style=flat&logo=terraform&logoColor=purple)&nbsp;
 ![Golang](https://img.shields.io/badge/-Golang-0D1117?style=flat&logo=go)&nbsp;
+![Elastic](https://img.shields.io/badge/-Elastic-0D1117?style=flat&logo=elastic)&nbsp;
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-0D1117?style=flat&logo=elasticsearch&logoColor=green)&nbsp;
 ![Logstash](https://img.shields.io/badge/-Logstash-0D1117?style=flat&logo=logstash&logoColor=yellow)&nbsp;
 ![Kibana](https://img.shields.io/badge/-Kibana-0D1117?style=flat&logo=kibana&logoColor=pink)&nbsp;
-![Elastic](https://img.shields.io/badge/-Elastic-0D1117?style=flat&logo=elastic)&nbsp;
 ![Kafka](https://img.shields.io/badge/-Kafka-0D1117?style=flat&logo=apache-kafka)&nbsp;
 ![Rabbitmq](https://img.shields.io/badge/-RabbitMQ-0D1117?style=flat&logo=rabbitmq)&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-0D1117?style=flat&logo=redis)&nbsp;
