@@ -58,7 +58,7 @@
   <li>❤️ Passionate about Technology</li>
   <li>⚒️ Bodybuilding Lover</li>
   <li>:books: Frequent reader</li>
-  <li>:sunglasses: 23 years old</li>
+  <li>:sunglasses: 24 years old</li>
   <li>:earth_americas: Brazilian</li>
 </ul>
 
