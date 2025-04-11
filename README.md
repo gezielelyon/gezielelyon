@@ -33,8 +33,8 @@
 ![Redis](https://img.shields.io/badge/-Redis-0D1117?style=flat&logo=redis)&nbsp;
 ![Postgres](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat&logo=postgresql)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=flat&logo=mysql)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=flat&logo=mongodb)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-0D1117?style=flat&logo=sqlite)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=flat&logo=mongodb)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-0D1117?style=flat&logo=graphql&logoColor=pink)&nbsp;
 ![Elastic](https://img.shields.io/badge/-Elastic-0D1117?style=flat&logo=elastic)&nbsp;
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-0D1117?style=flat&logo=elasticsearch&logoColor=green)&nbsp;
