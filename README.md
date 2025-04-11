@@ -55,9 +55,12 @@
 ![Yarn](https://img.shields.io/badge/-Yarn-0D1117?style=flat&logo=yarn)&nbsp;
 ![Pnpm](https://img.shields.io/badge/-Pnpm-0D1117?style=flat&logo=pnpm)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=flat&logo=figma)&nbsp;
+![React Native](https://img.shields.io/badge/-React%20Native-0D1117?style=flat&logo=react)&nbsp;
+![Expo](https://img.shields.io/badge/-Expo-0D1117?style=flat&logo=expo)&nbsp;
 ![Copilot](https://img.shields.io/badge/-Copilot-0D1117?style=flat&logo=github-copilot)&nbsp;
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-0D1117?style=flat&logo=openai)&nbsp;
 ![Insomnia](https://img.shields.io/badge/-Insomnia-0D1117?style=flat&logo=insomnia&logoColor=purple)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-0D1117?style=flat&logo=Postman)&nbsp;
 ![Lens](https://img.shields.io/badge/-Lens-0D1117?style=flat&logo=lens)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-0D1117?style=flat&logo=markdown)&nbsp;
 ![Slack](https://img.shields.io/badge/-Slack-0D1117?style=flat&logo=slack&logoColor=pink)&nbsp;
