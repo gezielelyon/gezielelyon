@@ -71,7 +71,8 @@
   <li>⚒️ Bodybuilding Lover</li>
   <li>:books: Frequent reader</li>
   <li>:sunglasses: 24 years old</li>
-  <li>:earth_americas: Brazilian</li>
+  <li>✝️ Christian</li>
+  <li>:earth_americas: Brazil</li>
 </ul>
 
 [//]: <> (<img width="550em" src="https://github-readme-stats.vercel.app/api?username=gezielelyon&show_icons=true&theme=transparent" alt="Geziel's stats"/>)
