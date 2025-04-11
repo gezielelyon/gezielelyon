@@ -21,13 +21,13 @@
 ![Jest](https://img.shields.io/badge/-Jest-0D1117?style=flat&logo=jest&logoColor=yellow)&nbsp;
 ![Vitest](https://img.shields.io/badge/-Vitest-0D1117?style=flat&logo=vitest)&nbsp;
 ![Cypress](https://img.shields.io/badge/-Cypress-0D1117?style=flat&logo=cypress&logoColor=blue)&nbsp;
+![Golang](https://img.shields.io/badge/-Golang-0D1117?style=flat&logo=go)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-0D1117?style=flat&logo=kubernetes)&nbsp;
 ![Terraform](https://img.shields.io/badge/-Terraform-0D1117?style=flat&logo=terraform&logoColor=purple)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-0D1117?style=flat&logo=amazon-web-services&logoColor=orange)&nbsp;
 ![Vercel](https://img.shields.io/badge/-Vercel-0D1117?style=flat&logo=vercel)&nbsp;
-![Golang](https://img.shields.io/badge/-Golang-0D1117?style=flat&logo=go)&nbsp;
-![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python)&nbsp;
 ![Kafka](https://img.shields.io/badge/-Kafka-0D1117?style=flat&logo=apache-kafka)&nbsp;
 ![Rabbitmq](https://img.shields.io/badge/-RabbitMQ-0D1117?style=flat&logo=rabbitmq)&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-0D1117?style=flat&logo=redis)&nbsp;
