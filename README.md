@@ -66,13 +66,16 @@
 ![Slack](https://img.shields.io/badge/-Slack-0D1117?style=flat&logo=slack&logoColor=pink)&nbsp;
 
 <ul>
-  <li>🖥️ Software engineer and Entrepreneur
+  <li>🖥️ Software engineer & Entrepreneur
   <li>❤️ Passionate about Technology</li>
   <li>⚒️ Bodybuilding Lover</li>
   <li>:books: Frequent reader</li>
   <li>:sunglasses: 24 years old</li>
+  <li>👊🏻 Kickboxing</li>
   <li>✝️ Christian</li>
   <li>:earth_americas: Brazil</li>
 </ul>
 
-[//]: <> (<img width="550em" src="https://github-readme-stats.vercel.app/api?username=gezielelyon&show_icons=true&theme=transparent" alt="Geziel's stats"/>)
+Github account used to work: [@gezielwellhub](https://github.com/gezielwellhub)
+
+[//]: <> (<img width="550em" src="https://github-readme-stats.vercel.app/api?username=gezielwellhub&show_icons=true&theme=transparent" alt="Geziel's stats"/>)
