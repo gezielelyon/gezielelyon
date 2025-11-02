@@ -71,7 +71,6 @@
   <li>⚒️ Bodybuilding Lover</li>
   <li>:books: Frequent reader</li>
   <li>:sunglasses: 24 years old</li>
-  <li>👊🏻 Kickboxing</li>
   <li>✝️ Christian</li>
   <li>:earth_americas: Brazil</li>
 </ul>
