@@ -67,12 +67,12 @@
 
 <ul>
   <li>🖥️ Software engineer & Entrepreneur
-  <li>❤️ Passionate about Technology</li>
-  <li>⚒️ Bodybuilding Lover</li>
+  <li>❤️ Passionate about technology</li>
+  <li>⚒️ Bodybuilding lover</li>
   <li>:books: Frequent reader</li>
   <li>:sunglasses: 24 years old</li>
   <li>✝️ Christian</li>
-  <li>:earth_americas: Brazil</li>
+  <li>:earth_americas: Brazilian</li>
 </ul>
 
 Github account used to work: [@gezielwellhub](https://github.com/gezielwellhub)
