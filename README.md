@@ -75,6 +75,4 @@
   <li>:earth_americas: Brazilian</li>
 </ul>
 
-Github account used to work: [@gezielwellhub](https://github.com/gezielwellhub)
-
 [//]: <> (<img width="550em" src="https://github-readme-stats.vercel.app/api?username=gezielwellhub&show_icons=true&theme=transparent" alt="Geziel's stats"/>)
