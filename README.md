@@ -70,7 +70,7 @@
   <li>❤️ Passionate about technology</li>
   <li>⚒️ Bodybuilding lover</li>
   <li>:books: Frequent reader</li>
-  <li>:sunglasses: 24 years old</li>
+  <li>:sunglasses: 25 years old</li>
   <li>✝️ Christian</li>
   <li>:earth_americas: Brazilian</li>
 </ul>
