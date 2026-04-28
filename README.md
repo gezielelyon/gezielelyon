@@ -66,12 +66,8 @@
 ![Slack](https://img.shields.io/badge/-Slack-0D1117?style=flat&logo=slack&logoColor=pink)&nbsp;
 
 <ul>
-  <li>🖥️ Software engineer & Entrepreneur
-  <li>❤️ Passionate about technology</li>
-  <li>⚒️ Bodybuilding lover</li>
-  <li>:books: Frequent reader</li>
-  <li>:sunglasses: 25 years old</li>
-  <li>✝️ Christian</li>
+  <li>🖥️ Software engineer</li>
+  <li>🧠 Entrepreneur</li>
   <li>:earth_americas: Brazilian</li>
 </ul>
 
