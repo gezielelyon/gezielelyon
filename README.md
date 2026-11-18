@@ -23,8 +23,9 @@
 ![Shadcn](https://img.shields.io/badge/-Shadcn-0D1117?logo=shadcn/ui)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-0D1117?logo=sass&logoColor=CC6699)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?logo=bootstrap&logoColor=7952B3)&nbsp;
-![Storybook](https://img.shields.io/badge/-Storybook-0D1117?logo=storybook&logoColor=FF4785)&nbsp;
 ![TanStack](https://img.shields.io/badge/-TanStack-0D1117?logo=tanstack&logoColor=ECE8D1)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-0D1117?logo=redux&logoColor=764ABC)&nbsp;
+![Storybook](https://img.shields.io/badge/-Storybook-0D1117?logo=storybook&logoColor=FF4785)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-0D1117?logo=jest&logoColor=C21325)&nbsp;
 ![Vitest](https://img.shields.io/badge/-Vitest-0D1117?logo=vitest&logoColor=00FF74)&nbsp;
 ![Cypress](https://img.shields.io/badge/-Cypress-0D1117?logo=cypress&logoColor=69D3A7)&nbsp;
