@@ -16,10 +16,14 @@
 ![Gatsby](https://img.shields.io/badge/-Gatsby-0D1117?logo=gatsby&logoColor=663399)&nbsp;
 ![Svelte](https://img.shields.io/badge/-Svelte-0D1117?logo=svelte&logoColor=FF3E00)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-Tailwind-0D1117?logo=tailwind-css&logoColor=06B6D4)&nbsp;
+![StyledComponents](https://img.shields.io/badge/-StyledComponents-0D1117?logo=styledcomponents&logoColor=DB7093)&nbsp;
+![ChakraUI](https://img.shields.io/badge/-ChakraUI-0D1117?logo=chakraui&logoColor=1BB2A9)&nbsp;
+![CSSModules](https://img.shields.io/badge/-CSSModules-0D1117?logo=cssmodules)&nbsp;
 ![Radix](https://img.shields.io/badge/-Radix-0D1117?logo=radix-ui)&nbsp;
 ![Shadcn](https://img.shields.io/badge/-Shadcn-0D1117?logo=shadcn/ui)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-0D1117?logo=sass&logoColor=CC6699)&nbsp;
-![StyledComponents](https://img.shields.io/badge/-StyledComponents-0D1117?logo=styledcomponents&logoColor=DB7093)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?logo=bootstrap&logoColor=7952B3)&nbsp;
+![Storybook](https://img.shields.io/badge/-Storybook-0D1117?logo=storybook&logoColor=FF4785)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-0D1117?logo=jest&logoColor=C21325)&nbsp;
 ![Vitest](https://img.shields.io/badge/-Vitest-0D1117?logo=vitest&logoColor=00FF74)&nbsp;
 ![Cypress](https://img.shields.io/badge/-Cypress-0D1117?logo=cypress&logoColor=69D3A7)&nbsp;
