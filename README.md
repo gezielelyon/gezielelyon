@@ -8,6 +8,7 @@
 ![Express](https://img.shields.io/badge/-Express-0D1117?logo=express)&nbsp;
 ![Fastify](https://img.shields.io/badge/-Fastify-0D1117?logo=fastify)&nbsp;
 ![ApolloGraphQL](https://img.shields.io/badge/-ApolloGraphQL-0D1117?logo=apollo-graphql&logoColor=311C87)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-0D1117?logo=graphql&logoColor=E10098)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?logo=HTML5&logoColor=E34F26)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?logo=css&logoColor=663399)&nbsp;
 ![React](https://img.shields.io/badge/-React-0D1117?logo=react&logoColor=61DAFB)&nbsp;
@@ -37,7 +38,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?logo=docker&logoColor=2496ED)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-0D1117?logo=kubernetes&logoColor=326CE5)&nbsp;
 ![Terraform](https://img.shields.io/badge/-Terraform-0D1117?logo=terraform&logoColor=844FBA)&nbsp;
-![Vercel](https://img.shields.io/badge/-Vercel-0D1117?logo=vercel)&nbsp;
 ![Kafka](https://img.shields.io/badge/-Kafka-0D1117?logo=apache-kafka)&nbsp;
 ![Rabbitmq](https://img.shields.io/badge/-RabbitMQ-0D1117?logo=rabbitmq&logoColor=FF6600)&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-0D1117?logo=redis&logoColor=FF4438)&nbsp;
@@ -45,7 +45,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?logo=mysql&logoColor=4479A1)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-Mongo-0D1117?logo=mongodb&logoColor=47A248)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-0D1117?logo=sqlite&logoColor=003B57)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-0D1117?logo=graphql&logoColor=E10098)&nbsp;
 ![Elastic](https://img.shields.io/badge/-Elastic-0D1117?logo=elastic&logoColor=005571)&nbsp;
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-0D1117?logo=elasticsearch&logoColor=005571)&nbsp;
 ![Logstash](https://img.shields.io/badge/-Logstash-0D1117?logo=logstash&logoColor=005571)&nbsp;
@@ -73,4 +72,5 @@
 ![Copilot](https://img.shields.io/badge/-Copilot-0D1117?logo=github-copilot)&nbsp;
 ![Insomnia](https://img.shields.io/badge/-Insomnia-0D1117?logo=insomnia&logoColor=4000BF)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-0D1117?logo=Postman&logoColor=FF6C37)&nbsp;
+![Vercel](https://img.shields.io/badge/-Vercel-0D1117?logo=vercel)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-0D1117?logo=markdown)&nbsp;
