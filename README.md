@@ -8,13 +8,13 @@
 ![Express](https://img.shields.io/badge/-Express-0D1117?logo=express)&nbsp;
 ![Fastify](https://img.shields.io/badge/-Fastify-0D1117?logo=fastify)&nbsp;
 ![ApolloGraphQL](https://img.shields.io/badge/-ApolloGraphQL-0D1117?logo=apollo-graphql&logoColor=311C87)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-0D1117?logo=HTML5&logoColor=E34F26)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?logo=css&logoColor=663399)&nbsp;
 ![React](https://img.shields.io/badge/-React-0D1117?logo=react&logoColor=61DAFB)&nbsp;
 ![Next](https://img.shields.io/badge/-Next-0D1117?logo=next.js)&nbsp;
 ![Vite](https://img.shields.io/badge/-Vite-0D1117?logo=vite&logoColor=9135FF)&nbsp;
 ![Gatsby](https://img.shields.io/badge/-Gatsby-0D1117?logo=gatsby&logoColor=663399)&nbsp;
 ![Svelte](https://img.shields.io/badge/-Svelte-0D1117?logo=svelte&logoColor=FF3E00)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?logo=HTML5&logoColor=E34F26)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?logo=css&logoColor=663399)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-Tailwind-0D1117?logo=tailwind-css&logoColor=06B6D4)&nbsp;
 ![StyledComponents](https://img.shields.io/badge/-StyledComponents-0D1117?logo=styledcomponents&logoColor=DB7093)&nbsp;
 ![ChakraUI](https://img.shields.io/badge/-ChakraUI-0D1117?logo=chakraui&logoColor=1BB2A9)&nbsp;
