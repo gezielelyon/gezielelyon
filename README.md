@@ -1,4 +1,4 @@
-<h1>Hi, welcome to my personal Github! 💻</h1>
+<h1>Hi, welcome to my personal code repository! 💻</h1>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?logo=javascript&logoColor=F7DF1E)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?logo=typescript&logoColor=3178C6)&nbsp;
