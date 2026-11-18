@@ -54,6 +54,7 @@
 ![Prisma](https://img.shields.io/badge/-Prisma-0D1117?logo=prisma&logoColor=2D3748)&nbsp;
 ![TypeORM](https://img.shields.io/badge/-TypeORM-0D1117?logo=typeorm&logoColor=FE0803)&nbsp;
 ![Sequelize](https://img.shields.io/badge/-Sequelize-0D1117?logo=sequelize&logoColor=52B0E7)&nbsp;
+![Keycloak](https://img.shields.io/badge/-Keycloak-0D1117?logo=keycloak&logoColor=4D4D4D)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?logo=linux&logoColor=FCC624)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?logo=git&logoColor=F03C2E)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?logo=github)&nbsp;
@@ -72,5 +73,4 @@
 ![Copilot](https://img.shields.io/badge/-Copilot-0D1117?logo=github-copilot)&nbsp;
 ![Insomnia](https://img.shields.io/badge/-Insomnia-0D1117?logo=insomnia&logoColor=4000BF)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-0D1117?logo=Postman&logoColor=FF6C37)&nbsp;
-![Lens](https://img.shields.io/badge/-Lens-0D1117?logo=lens&logoColor=3D90CE)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-0D1117?logo=markdown)&nbsp;
