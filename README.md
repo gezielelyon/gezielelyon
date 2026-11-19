@@ -29,6 +29,7 @@
 ![Babel](https://img.shields.io/badge/-Babel-0D1117?logo=babel&logoColor=F9DC3E)&nbsp;
 ![i18next](https://img.shields.io/badge/-i18next-0D1117?logo=i18next&logoColor=26A69A)&nbsp;
 ![Storybook](https://img.shields.io/badge/-Storybook-0D1117?logo=storybook&logoColor=FF4785)&nbsp;
+![Nextra](https://img.shields.io/badge/-Nextra-0D1117?logo=nextra)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-0D1117?logo=jest&logoColor=C21325)&nbsp;
 ![Vitest](https://img.shields.io/badge/-Vitest-0D1117?logo=vitest&logoColor=00FF74)&nbsp;
 ![Cypress](https://img.shields.io/badge/-Cypress-0D1117?logo=cypress&logoColor=69D3A7)&nbsp;
